@@ -3,13 +3,19 @@
 ## Campo Minado - Trabalho I
 ```shell
 $ gcc campo-minado/campo_minado.c -o _.out && ./_.out
+```
+
+```txt
 > Digite o tamanho da matriz desejada: [3, 9]
 ```
+
 O trabalho não contém as flags de sinalização para uma possível bomba no local, nem possui a função de abrir o campo.
 
 ## Torre de Hanoi - Trabalho II
 ```shell
 $ gcc torre-hanoi/main.c torre-hanoi/TorreDeHanoi.c -o _.out && ./_.out
+```
+```txt
 > Insira a quantidade de pinos: [3, 5]
 > insira a quantidade de discos: [3, 5]
 ```
