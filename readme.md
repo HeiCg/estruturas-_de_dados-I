@@ -15,4 +15,4 @@ $ gcc torre-hanoi/main.c torre-hanoi/TorreDeHanoi.c -o _.out && ./_.out
 ```
 O trabalho foi feito com base no último enunciado que deixou a possibilidade da impressão da torre ser feita verticalmente.
 - [X] Documentação utilizando o doxygen.
-- [ ] Refatoração das funções para higher-order.
+- [ ] Refatoração das funções para higher-order functions.
