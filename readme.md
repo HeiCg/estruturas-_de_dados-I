@@ -14,5 +14,5 @@ $ gcc torre-hanoi/main.c torre-hanoi/TorreDeHanoi.c -o _.out && ./_.out
 > insira a quantidade de discos: [3, 5]
 ```
 O trabalho foi feito com base no último enunciado que deixou a possibilidade da impressão da torre ser feita verticalmente.
-- [X] Documentação utilizando o doxygen
-- [ ] Refatoração das funções para rebecer higher-order functions como parâmetro
+- [X] Documentação utilizando o doxygen.
+- [ ] Refatoração das funções para higher-order.
